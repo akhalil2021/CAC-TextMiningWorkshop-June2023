@@ -1,4 +1,4 @@
-# CAC-TextMining-Training-June2023
+# CAC-TextMiningWorkshop-June2023
 - Go to https://gke.mybinder.org/
 - Copy and paste this link in the GitHub input field: https://github.com/akhalil2021/CAC-TextMining-Training-June2023.git
 - Press the Launch button
